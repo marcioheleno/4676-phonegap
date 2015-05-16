@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Hello World</name>
+<widget id="br.com.marcomunicacaocriacao.appestudo" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>App Estudo 4Linux - Cordova</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Meu App de estudo
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="contato@marcomuicacaocriacao.com.br" href="http://marcomunicacaocriacao.com.br">
+        Mar Comunicação Criação
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
